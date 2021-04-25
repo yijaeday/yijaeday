@@ -1,0 +1,55 @@
+body{
+ background-image:url('Images/backgroundwhite.jpg');
+ background-repeat: none;
+ text-align: center;
+ font-family: 'Roboto', sans-serif;
+ color: #401201;
+ margin: 3rem;
+
+}
+
+
+.nav-container{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  list-style-type: none;
+  top:0;
+  opacity: 0.8;
+  font-family: 'Roboto', sans-serif;
+  font-size: 200%;
+  margin:0;
+  padding:0;
+  position:fixed;
+  
+}
+
+.nav-item{
+  padding: 15px;
+  cursor: pointer;
+}
+
+.nav-item a{
+  text-align: center;
+  text-decoration: none;
+  color: #401201;
+  display: center;
+  font-size: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
